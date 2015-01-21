@@ -13,3 +13,7 @@ Estas son las normas:
 - Spock vaporiza piedra.
 - Piedra rompe tijera.
 - Tijera corta papel.
+
+Licencia
+========
+Este proyecto tiene una licencia <a href="https://github.com/arpius/piedra-papel-tijera-lagarto-spock/blob/master/LICENSE">Apache</a>
