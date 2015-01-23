@@ -18,4 +18,4 @@ Licencia
 ========
 Este proyecto tiene una licencia <a href="https://github.com/arpius/piedra-papel-tijera-lagarto-spock/blob/master/LICENSE">Apache</a>
 
-[[!Google play](https://developer.android.com/images/brand/es_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=biz.arpius.miningtool.app)
+[![Google Play](https://developer.android.com/images/brand/es_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=biz.arpius.miningtool.app)
